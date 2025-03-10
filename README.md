@@ -62,11 +62,14 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 While Waterfall is appropriate for projects that have set requirements, Agile is appropriate for projects that need to make high changes and user feedback.
 
 While Waterfall delivers the entire software in the end, Agile delivers little functional bits step by step.
+
+
 ✅ Waterfall Example:
 
 Developing a banking system in which security and compliance need to be planned to the letter well in advance.
 
 Coding medical device software with predetermined regulatory requirements.
+
 ✅ Agile Example:
 
 Creating a mobile app where end-user input drives future versions.
